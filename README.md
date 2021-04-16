@@ -11,6 +11,7 @@ Invite yourself to the organization by typing  `<Github USER NAME>` in [Github U
 <p align="center"> <img src="./join_codetrophs.png" alt="hello" width="400" /></p>
 
 Now that you are in the org you can make a PR that adds your self to the [CONTRIBUTORS.md](CONTRIBUTORS.md)
+`<Name> (https://github.com/<username>)`
 
 # 🌟 Contributors
 
